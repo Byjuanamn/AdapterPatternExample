@@ -31,7 +31,7 @@ struct Frog {
 
 extension Frog: Jumping {
     func jump() {
-        print("Perro salta")
+        print("Rana salta")
     }
 }
 
